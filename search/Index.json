@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "custom‑creature",
+      "path": "data/custom‑creature.json",
+      "type": "creature"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "name": "我的自定义怪物库",
+    "author": "你的名字"
+  }
+}
