@@ -1,21 +1,11 @@
 {
-  "version": "1.0.0",
-  "categories": [
+  "Monster": 
+   [
     {
       "c": 1,
       "name": "monster",
-      "file": "data/bestiary/bestiary-HOMEBREW.json"
-    },
-    {
-      "c": 2,
-      "name": "spell",
-      "file": "data/spells/spells-HOMEBREW.json"
-    },
-    {
-      "c": 4,
-      "name": "item",
-      "file": "data/items/items-HOMEBREW.json"
+      "ENG_name":"CCHH",
+      "source": "data/bestiary/bestiary-HOMEBREW.json"
     }
-  ],
-  "index": []
+  ]
 }
