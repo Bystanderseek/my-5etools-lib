@@ -1,0 +1,16 @@
+{
+  "item": [
+    {
+      "name": "裂隙之戒",
+      "ENG_name": "Rift Ring",
+      "source": "HOMEBREW",
+      "page": 1,
+      "type": "RG",
+      "rarity": "rare",
+      "wondrous": true,
+      "entries": [
+        "While wearing this ring, once per day as a bonus action you can teleport to an unoccupied space you can see within 30 ft. A faint shimmer of starlight marks the destination before you arrive."
+      ]
+    }
+  ]
+}

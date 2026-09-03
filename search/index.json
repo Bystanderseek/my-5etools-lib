@@ -1,0 +1,32 @@
+[
+  {
+    "ENG_name": "Frost Wisp",
+    "source": "HOMEBREW",
+    "category": "monster",
+    "file": "data/bestiary/bestiary-HOMEBREW.json"
+  },
+  {
+    "ENG_name": "Ember Elemental",
+    "source": "HOMEBREW",
+    "category": "monster",
+    "file": "data/bestiary/bestiary-HOMEBREW.json"
+  },
+  {
+    "ENG_name": "Glacier Blade",
+    "source": "HOMEBREW",
+    "category": "spell",
+    "file": "data/spells/spells-HOMEBREW.json"
+  },
+  {
+    "ENG_name": "Rift Ring",
+    "source": "HOMEBREW",
+    "category": "item",
+    "file": "data/items.json"
+  },
+  {
+    "ENG_name": "Dual Wielder Master",
+    "source": "HOMEBREW",
+    "category": "feat",
+    "file": "data/feats.json"
+  }
+]

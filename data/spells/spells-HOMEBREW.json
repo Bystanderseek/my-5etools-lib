@@ -1,0 +1,20 @@
+{
+  "spell": [
+    {
+      "name": "冰川之刃",
+      "ENG_name": "Glacier Blade",
+      "source": "HOMEBREW",
+      "page": 1,
+      "level": 2,
+      "school": "E",
+      "time": [{ "number": 1, "unit": "action" }],
+      "range": { "type": "point", "distance": { "type": "self" } },
+      "components": { "v": true, "s": true },
+      "duration": { "type": "instant" },
+      "entries": [
+        "A blade of frozen crystal forms in your hand. Make a melee spell attack. On a hit, the target takes {@damage 3d6} cold damage and its speed is reduced by 10 ft. until the end of your next turn."
+      ],
+      "damageInflict": ["cold"]
+    }
+  ]
+}
