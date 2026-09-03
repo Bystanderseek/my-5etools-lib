@@ -1,10 +1,1 @@
-{
-  "item": [
-    {"name": "五色龙鳞剑", 
-      "ENG_name": "Five‑Colored Dragon Scale Greatsword", 
-      "source": "HOMEBREW","page": 0,
-      "type": "M", "weight": 6,"value": 0, "rarity": "very rare (requires attunement)", 
-      "dmg1": "2d6", "dmgType": "S", "property": ["H", "2H"],
-      "entries": ["各类色彩龙的龙鳞嵌满巨剑，冷暖光纹交错，锋芒慑人。", "这把武器的攻击骰与伤害骰获得 + 2 加值。", "你使用该武器进行的攻击检定在 d20 中掷出 19 或 20 时即可造成重击。", "使用该武器造成挥砍伤害时无视挥砍伤害抗性。", "每次短休或者长休时，你从强酸，雷鸣，火焰，毒素，寒冷中选择一种伤害类型，当此武器造成伤害时，你可以使用此伤害类型。"]}
-  ]
-}
+{"item": [{"name": "五色龙鳞剑", "ENG_name": "Five‑Colored Dragon Scale Greatsword", "source": "Seek", "page": 0, "type": "巨剑", "weight": 6, "rarity": "极珍稀(需同调)", "dmg1": "2d6", "dmgType": "S", "property": ["重型","双手","擦掠"], "entries": ["各类色彩龙的龙鳞嵌满巨剑，冷暖光纹交错，锋芒慑人。", "这把武器的攻击骰与伤害骰获得 + 2 加值。", "你使用该武器进行的攻击检定在 d20 中掷出 19 或 20 时即可造成重击。", "使用该武器造成挥砍伤害时无视挥砍伤害抗性。", "每次短休或者长休时，你从强酸，雷鸣，火焰，毒素，寒冷中选择一种伤害类型，当此武器造成伤害时，你可以使用此伤害类型。"]}]}
