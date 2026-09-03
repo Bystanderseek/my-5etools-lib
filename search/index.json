@@ -3,4 +3,4 @@
   {"id":2,"c":1,"u":"%e9%ad%94%e9%ac%bc%e4%bb%a3%e8%a8%80%e4%ba%ba_abh","p":17,"s":0,"h":1,"n":"Speaker Devil","cn":"魔鬼代言人"},
   {"id":3,"c":1,"u":"%e5%90%b8%e8%a1%80%e9%ac%bc%e7%8b%b1%e7%82%8e%e9%ad%94%e4%bd%bf_abh","p":18,"s":0,"h":1,"n":"Vampire Infernalist","cn":"吸血鬼狱炎魔使"},
   {"id":4,"c":1,"u":"%e5%90%b8%e8%a1%80%e9%ac%bc%e7%9c%8b%e5%ae%88_abh","p":20,"s":0,"h":1,"n":"Vampire Warden","cn":"吸血鬼看守"},
-{"ENG_name":"Five‑Colored Dragon Scale Greatsword","source":"HOMEBREW","c":4}]}
+{"c":4,"ENG_name":"Five‑Colored Dragon Scale Greatsword","source": "HOMEBREW","cn":"吸血鬼狱炎魔使"}]}
