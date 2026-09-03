@@ -1,5 +1,0 @@
-{
-  "monster": ["data/monsters.json"],
-  "spell": ["data/spells.json"],
-  "item": ["data/items.json"]
-}
