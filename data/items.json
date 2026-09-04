@@ -9,7 +9,7 @@
             "rarity": "极珍稀",
             "dmg1": "2d6",
             "dmgType": "挥砍",
-            "properties": [
+            "property": [
                 "双手",
                 "重型"
             ],
@@ -36,7 +36,7 @@
             "rarity": "珍稀",
             "dmg1": "2d6",
             "dmgType": "挥砍",
-            "properties": [
+            "property": [
                 "双手",
                 "重型"
             ],
