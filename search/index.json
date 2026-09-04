@@ -1,4 +1,10 @@
 {"x":[
-{"c":4,"u":"HOMEBREW","s":"Seek","n":"Five‑Colored Dragon Scale Greatsword","cn":"五色龙鳞剑"},
-{"c":4,"u":"HOMEBREW","s":"Seek","n":"Frostbrand Brand","cn":"寒霜烙印"}
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Five‑Colored Dragon Scale Greatsword","cn":"五色龙鳞剑"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Frostbrand Brand","cn":"寒霜烙印"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Broken Thorn","cn":"破碎荆棘"},
+        	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Cursed Ring","cn":"诅咒戒指"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Matte Silver Ring","cn":"哑光银戒"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Shimmer Shred Pinwheel","cn":"碎光风车"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Tracker Wand","cn":"追踪者魔杖"},
+	{"c":4,"u":"HOMEBREW","s":"Seek","n":"Sword of Styx","cn":"冥河之剑"}
 ]}
