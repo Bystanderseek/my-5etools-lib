@@ -4,7 +4,7 @@
             "name": "五色龙鳞剑",
             "ENG_name": "Five‑Colored Dragon Scale Greatsword",
             "source": "Seek",
-            "type": "巨剑",
+            "type": "M",
             "weight": 6,
             "rarity": "极珍稀",
             "dmg1": "2d6",
@@ -31,7 +31,7 @@
             "name": "寒霜烙印",
             "ENG_name": "Frostbrand Brand",
             "source": "Seek",
-            "type": "巨剑",
+            "type": "M",
             "weight": 6,
             "rarity": "珍稀",
             "dmg1": "2d6",
@@ -58,7 +58,7 @@
             "name": "诅咒戒指",
             "ENG_name": "Cursed Ring",
             "source": "Seek",
-            "type": "饰品",
+            "type": "RG",
             "rarity": "非普通",
             "reqAttune": "否",
             "entries": [
@@ -76,7 +76,7 @@
             "name": "哑光银戒",
             "ENG_name": "Matte Silver Ring",
             "source": "Seek",
-            "type": "饰品",
+            "type": "RG",
             "rarity": "非普通",
             "reqAttune": "否",
             "entries": [
@@ -111,7 +111,7 @@
             "name": "破碎荆棘",
             "ENG_name": "Broken Thorn",
             "source": "Seek",
-            "type": "长剑",
+            "type": "LW",
             "rarity": "非普通",
             "reqAttune": "是",
             "weight": 3,
@@ -133,6 +133,35 @@
                 "当它击中一个物件时，将自动造成重击，并且可以选择对该物件造成钝击还是挥砍伤害（由你选择）。",
                 "此外，非魔法来源的伤害无法损伤该武器。"
             ]
+        },
+        {
+    "name": "追踪者魔杖",
+    "ENG_name": "Tracker Wand",
+    "source": "Seek",
+    "type": "法杖",
+    "rarity": "普通",
+    "reqAttune": "是",
+    "weight": 1,
+    "entries": [
+        {
+            "type": "quote",
+            "entries": [
+                "一根朴素无华的法杖"
+            ]
+        },
+        "这根魔杖具有3充能。当持握它时，你可以用1充能施展1环版本的魔法飞弹法术。",
+        {
+            "type": "entries",
+            "entries": [
+                {
+                    "type": "h4",
+                    "entries": ["重获充能"]
+                },
+                "这根魔杖在每次长休后恢复全部充能。"
+            ]
         }
+    ]
+}
+
     ]
 }
