@@ -94,7 +94,7 @@
             "name": "碎光风车",
             "ENG_name": "Shimmer Shred Pinwheel",
             "source": "Seek",
-            "type": "Wondrous",
+            "type": "奇物",
             "rarity": "普通",
             "reqAttune": "否",
             "entries": [
@@ -151,17 +151,11 @@
         },
         "这根魔杖具有3充能。当持握它时，你可以用1充能施展1环版本的魔法飞弹法术。",
         {
-            "type": "entries",
-            "entries": [
-                {
-                    "type": "h4",
-                    "entries": ["重获充能"]
-                },
-                "这根魔杖在每次长休后恢复全部充能。"
-            ]
-        }
+            "type": "h4",
+            "entries": ["重获充能"]
+        },
+        "这根魔杖在每次长休后恢复全部充能。"
     ]
 }
-
     ]
 }
