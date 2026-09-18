@@ -579,6 +579,7 @@
             "ENG_name": "Hammerstring Lute",
             "source": "Seek",
             "type": "乐器",
+            "weight": 4,
             "rarity": "珍稀",
             "reqAttune": "是",
             "entries": [
