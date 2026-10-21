@@ -678,7 +678,7 @@
     "source": "Seek",
     "type": "奇物",
     "rarity": "珍稀",
-    "attunement": true,
+    "reqAttune": 是,
     "entries": [
         {
             "type": "quote",
@@ -702,7 +702,7 @@
     "source": "Seek",
     "type": "奇物",
     "rarity": "珍稀",
-    "attunement": true,
+    "reqAttune": "是",
     "entries": [
         {
             "type": "quote",
@@ -739,7 +739,7 @@
     "source": "Seek",
     "type": "奇物",
     "rarity": "珍稀",
-    "attunement": true,
+    "reqAttune": "是",
     "entries": [
         {
             "type": "quote",
